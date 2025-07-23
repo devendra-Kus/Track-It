@@ -1,0 +1,43 @@
+TRACK-IT 
+
+LIVE URL - https://trackit-frontend-tauz.onrender.com
+
+
+Project Title: Attendance Management System
+
+Objective:
+To automate and streamline the attendance process by reducing manual effort, minimizing errors, and ensuring accurate and real-time attendance tracking using QR codes and location data.
+
+ Description:
+A web-based system that simplifies attendance tracking through QR code scanning. It includes two separate panels for Admin and Users. Admins can manage users, generate QR codes, declare holidays, and view detailed attendance reports. Users can scan QR codes to mark attendance, track their own records, and receive holiday notifications. The system also records the date, time, and location of each attendance for accuracy.
+
+Key Features:
+
+QR Code-based attendance marking
+
+Real-time location tracking
+
+Admin and User panel separation
+
+Leave and holiday management
+
+Late entry marking 
+
+Attendance history and reporting
+-------------------------------------------------------------------------------------------------
+SETUP
+
+extract file ---->
+1. cd backend --->npm install --->node server
+2. cd frontend ---> npm install ---->npm start
+
+-----------------------------------------------------------------------------------------------
+
+FLOW :
+ Admin--->login-->create batch---->add student(by exel)---->Ready to go
+ user--->login(unique key)---->ready to go
+
+
+Note : use only the given formate of exel file 
+
+-------------------------THANK YOU--------------------------------------------

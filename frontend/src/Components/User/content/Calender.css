@@ -1,0 +1,7 @@
+/* App.css or your preferred stylesheet */
+.react-calendar__tile.highlighted {
+  background-color: #ff6347; /* Tomato red */
+  color: white;
+  font-weight: bold;
+  border-radius: 50%;
+}
