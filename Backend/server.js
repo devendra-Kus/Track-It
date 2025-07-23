@@ -12,7 +12,7 @@
     
     server.use(cookieParser(    ))
 const allowedOrigins = [
-  "https://track-it-fdcl.onrender.com",
+  "https://trackit-frontend-b0ed.onrender.com",
   "http://localhost:3000", 
 ];
 
